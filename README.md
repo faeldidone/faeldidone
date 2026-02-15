@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&nbsp;
+I'm Rafael, a infrastructure analyst currently employed in Rio Grande do Sul, Brazil. I enjoy investing in cybersecurity for processes and data centers. I work with firewalls, L2 and L3 switches, routers, access points, factory IoT devices, local servers, storage centers, and more. 
 
-I'm Rafael, a infrastructure analyst currently employed in Rio Grande do Sul, Brazil. I enjoy investing in cybersecurity for processes and data centers. I work with firewalls, L2 and L3 switches, routers, access points, factory IoT devices, local servers, storage centers, and more. I have been working in this area for two years, seeking to improve and consolidate the company's current infrastructure, assisting in the optimization of internal business processes and ensuring reliability, availability, and business continuity.
+I have been working in this area for two years, seeking to improve and consolidate the company's current infrastructure, assisting in the optimization of internal business processes and ensuring reliability, availability, and business continuity.
 
 **Currently, I am focused on:**
 
@@ -30,8 +30,6 @@ I'm Rafael, a infrastructure analyst currently employed in Rio Grande do Sul, Br
 PS: I am looking to improve my knowledge and career growth.
   
 ## Level of Knowledge 📖
-
-&nbsp;
 
 - Hardware
 - Operating Systems
